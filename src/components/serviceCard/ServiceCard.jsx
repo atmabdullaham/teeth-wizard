@@ -1,5 +1,5 @@
 const ServiceCard = ({ service }) => {
-  console.log(service);
+  // console.log(service);
   const { id, treatment, image, description, cost } = service;
   return (
     <div className="card bg-base-100 shadow-sm">

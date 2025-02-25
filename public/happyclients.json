@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu39T921WqVS7A0YWJqq3MMviO-djiwgg83dPTGyjVaIrAhZBeZqhejr_TbuQ36KMSuUo&usqp=CAU",
+    "feedback": "Excellent service! The staff was very friendly, and the treatment was painless.",
+    "date": "2025-02-20",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1604072366595-e75dc92d6bdc?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFrZSUyMHdvbWFufGVufDB8fDB8fHww",
+    "feedback": "Very professional and clean clinic. Highly recommend for dental care!",
+    "date": "2025-02-18",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HUnBqLg6Owq45BuZ-6eRZIu76HjGAFaa3rRl-RPoijrmWsiDAPNSwXPbMjFNMjjpDkQ&usqp=CAU",
+    "feedback": "Great experience! My teeth look amazing after the whitening treatment.",
+    "date": "2025-02-15",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "image": "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg",
+    "feedback": "The doctor explained everything clearly, and the root canal was done smoothly.",
+    "date": "2025-02-10",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1609132718484-cc90df3417f8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFrZSUyMHdvbWFufGVufDB8fDB8fHww",
+    "feedback": "Affordable prices and quality service. I will definitely come back!",
+    "date": "2025-02-05",
+    "rating": 4.8
+  }
+]
