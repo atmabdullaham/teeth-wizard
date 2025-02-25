@@ -1,7 +1,7 @@
 import Rating from "react-rating";
 const Feedback = ({ feedback }) => {
   return (
-    <div className="card bg-base-100 shadow-xl p-4">
+    <div className="card bg-base-100 shadow-lg border-1 border-blue-50 p-4">
       <figure className="w-16 h-16 mx-auto rounded-full">
         <img
           src={feedback.image}

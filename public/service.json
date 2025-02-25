@@ -4,55 +4,87 @@
     "treatment": "Teeth Cleaning",
     "image": "https://encinofamilydental.com/wp-content/uploads/can-teeth-cleaning-remove-tartar.jpg",
     "description": "Professional dental cleaning to remove plaque, tartar, and stains for a healthier smile.",
-    "cost": 3000
+    "cost": 3000,
+    "duration": "30 minutes",
+    "doctor": "Dr. Sarah Khan",
+    "availability": "Monday - Friday",
+    "rating": 4.8
   },
   {
     "id": 2,
     "treatment": "Teeth Whitening",
     "image": "https://www.natrusmile.com/cdn/shop/articles/laser-teeth-whitening-vs-bleaching.png?v=1674147736",
     "description": "Brighten your smile with safe and effective teeth whitening treatments.",
-    "cost": 8000
+    "cost": 8000,
+    "duration": "45 minutes",
+    "doctor": "Dr. Alex Johnson",
+    "availability": "Tuesday - Saturday",
+    "rating": 4.7
   },
   {
     "id": 3,
     "treatment": "Dental Filling",
     "image": "https://www.fisherpointedental.com/wp-content/uploads/2019/10/Fisher-Pointe-_-Blog-Dental-Filling-Procedure-Steps.jpg",
     "description": "Restoration of cavities with durable tooth-colored fillings.",
-    "cost": 5000
+    "cost": 5000,
+    "duration": "40 minutes",
+    "doctor": "Dr. Emily Brown",
+    "availability": "Monday - Thursday",
+    "rating": 4.6
   },
   {
     "id": 4,
     "treatment": "Root Canal Treatment",
     "image": "https://www.drlinger.com/hubfs/root%20canal%20treatment-078475-edited.jpeg",
     "description": "Relieve tooth pain and save your natural tooth with a root canal procedure.",
-    "cost": 12000
+    "cost": 12000,
+    "duration": "1.5 hours",
+    "doctor": "Dr. Michael Lee",
+    "availability": "Wednesday - Friday",
+    "rating": 4.9
   },
   {
     "id": 5,
     "treatment": "Dental Implants",
     "image": "https://images.squarespace-cdn.com/content/v1/5902af8a5016e126476110f2/1501764723161-DC49MR9PVPLXS39O7MQE/%C2%A9+Paramount+Dental+Sydney+Full+Mouth+Dental+Implants+2.jpg",
     "description": "Permanent replacement for missing teeth with natural-looking dental implants.",
-    "cost": 50000
+    "cost": 50000,
+    "duration": "2 hours",
+    "doctor": "Dr. Sophia Martinez",
+    "availability": "Monday - Saturday",
+    "rating": 4.8
   },
   {
     "id": 6,
     "treatment": "Braces & Orthodontics",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2t0m1TNBWYiRFbPmucFM3X0sYuyoYnrnoIg&s",
     "description": "Straighten misaligned teeth with braces or clear aligners for a perfect smile.",
-    "cost": 40000
+    "cost": 40000,
+    "duration": "Multiple Sessions",
+    "doctor": "Dr. James Wilson",
+    "availability": "Tuesday - Sunday",
+    "rating": 4.7
   },
   {
     "id": 7,
     "treatment": "Tooth Extraction",
     "image": "https://vossdental.com/wp-content/uploads/2020/12/AdobeStock_301689865-2-scaled-e1607911321838.jpeg",
     "description": "Safe and painless tooth extraction for severely damaged or impacted teeth.",
-    "cost": 3000
+    "cost": 3000,
+    "duration": "30 minutes",
+    "doctor": "Dr. Olivia Patel",
+    "availability": "Monday - Friday",
+    "rating": 4.6
   },
   {
     "id": 8,
     "treatment": "Dental Crown",
     "image": "https://www.smilesunlimited.com.au/wp-content/uploads/2021/10/shutterstock_1911939388-1536x1152.jpg",
     "description": "Protect and restore damaged teeth with high-quality dental crowns.",
-    "cost": 15000
+    "cost": 15000,
+    "duration": "1 hour",
+    "doctor": "Dr. Robert Taylor",
+    "availability": "Wednesday - Saturday",
+    "rating": 4.8
   }
 ]
