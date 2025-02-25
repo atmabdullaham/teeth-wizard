@@ -13,10 +13,12 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+        loader: () => fetch("/service.json"),
       },
       {
         path: "/all-treatment",
         element: <AllTreatment></AllTreatment>,
+        loader: () => fetch("/service.json"),
       },
       {
         path: "/my-appointment",
