@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Teeth Cleaning",
+    "image": "https://example.com/images/teeth-cleaning.jpg",
+    "description": "Professional dental cleaning to remove plaque, tartar, and stains for a healthier smile.",
+    "cost": 3000
+  },
+  {
+    "id": 2,
+    "treatment": "Teeth Whitening",
+    "image": "https://example.com/images/teeth-whitening.jpg",
+    "description": "Brighten your smile with safe and effective teeth whitening treatments.",
+    "cost": 8000
+  },
+  {
+    "id": 3,
+    "treatment": "Dental Filling",
+    "image": "https://example.com/images/dental-filling.jpg",
+    "description": "Restoration of cavities with durable tooth-colored fillings.",
+    "cost": 5000
+  },
+  {
+    "id": 4,
+    "treatment": "Root Canal Treatment",
+    "image": "https://example.com/images/root-canal.jpg",
+    "description": "Relieve tooth pain and save your natural tooth with a root canal procedure.",
+    "cost": 12000
+  },
+  {
+    "id": 5,
+    "treatment": "Dental Implants",
+    "image": "https://example.com/images/dental-implants.jpg",
+    "description": "Permanent replacement for missing teeth with natural-looking dental implants.",
+    "cost": 50000
+  },
+  {
+    "id": 6,
+    "treatment": "Braces & Orthodontics",
+    "image": "https://example.com/images/braces.jpg",
+    "description": "Straighten misaligned teeth with braces or clear aligners for a perfect smile.",
+    "cost": 40000
+  },
+  {
+    "id": 7,
+    "treatment": "Tooth Extraction",
+    "image": "https://example.com/images/tooth-extraction.jpg",
+    "description": "Safe and painless tooth extraction for severely damaged or impacted teeth.",
+    "cost": 3000
+  },
+  {
+    "id": 8,
+    "treatment": "Dental Crown",
+    "image": "https://example.com/images/dental-crown.jpg",
+    "description": "Protect and restore damaged teeth with high-quality dental crowns.",
+    "cost": 15000
+  }
+]
