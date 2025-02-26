@@ -61,7 +61,7 @@ const Details = () => {
             </button>
           </div>
         </div>
-        <Modal></Modal>
+        <Modal treatment={singleData.treatment}></Modal>
       </div>
     </div>
   );
